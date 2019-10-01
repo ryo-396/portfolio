@@ -1,0 +1,93 @@
+body {
+    text-align: center;
+    font-family: serif;
+    color: rgb(43, 42, 42)
+}
+
+.title {
+    font-size: 50px;
+    color: rgb(218, 208, 208);
+    margin: 50px 0;
+}
+
+.name {
+    font-size: 40px;
+}
+
+body {
+    background-image: url(file:///Users/ryo/Downloads/IMG_0441.jpg);
+    height: 1300px;
+    background-size: cover;
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+.favorite {   
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.skills {
+    display: inline-block;
+    margin: 0 50px;
+}
+
+.contact-form {
+    color: rgb(250, 158, 20);
+    font-size: 35px;
+    border-top: solid white 1px;
+    margin-top: 40px;
+    background-color: rgba(129, 187, 238, 0.466);
+    padding-bottom: 20px;
+    border-radius: 15px;
+}
+
+.form {
+    background-color: rgb(231, 88, 88);
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.8;
+}
+
+.facebook {
+    background-color: rgb(25, 63, 235);
+    padding: 10px;
+    border-radius: 15px;
+    opacity: 0.8;
+}
+
+h4 {
+    font-size: 30px
+}
+
+a {
+    color: white;
+}
+
+.submit {
+    font-size: 20px;
+    margin: 20px 0 0 30px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+
+
+#pimg {
+    width:100%;
+  }
+  #pimg ul {
+    list-style:none;
+    padding:0;
+    margin:0;
+    text-align:center;
+  }
+  #pimg ul li {
+    display:inline-block;
+    width:30px;
+    height:30px;
+    border:1px solid #d8d8d8;
+  }
